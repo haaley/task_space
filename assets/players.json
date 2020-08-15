@@ -1,0 +1,44 @@
+{
+	"players": [{
+		"keyword": "Carcius",
+		"id": 1,
+		"autocompleteTerm": "Carcius Jacinto",
+		"country": "Montreal"
+	}, {
+		"keyword": "Haley",
+		"id": 2,
+		"autocompleteTerm": "Haley Silva",
+		"country": "Montreal"
+	}, {
+		"keyword": "Usuario 1",
+		"id": 3,
+		"autocompleteTerm": "Usuario Completo",
+		"country": "COTEC"
+	}, {
+		"keyword": "Raymara",
+		"id": 4,
+		"autocompleteTerm": "Raymara Pereira",
+		"country": "Montreal"
+	}, {
+		"keyword": "Marlon",
+		"id": 6,
+		"autocompleteTerm": "Marlon Pereira",
+		"country": "Montreal"
+	}, {
+		"keyword": "Arthur ",
+		"id": 7,
+		"autocompleteTerm": "Arthur Cantanhede",
+		"country": "Montreal"
+	}, {
+		"keyword": "Ruy",
+		"id": 8,
+		"autocompleteTerm": "Ruy Barros",
+		"country": "Montreal"
+	}, {
+		"keyword": "Usuario Interno",
+		"id": 9,
+		"autocompleteTerm": "Usuario Interno SEFAZ",
+		"country": "SEFAZ"
+	}
+]
+}
